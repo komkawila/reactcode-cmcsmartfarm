@@ -233,7 +233,7 @@ class App extends Component {
               </label>
             </div>
             <div className="box-sw">
-              <h2> Fertilizer </h2>
+              <h2> Nutrients </h2>
               <label className="switch" >
                 <input type="checkbox" checked={sw3} defaultChecked={sw3} onClick={this.setSW3} />
                 <span className="slider round" />
